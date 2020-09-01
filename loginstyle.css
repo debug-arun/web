@@ -293,10 +293,23 @@ text{
   position: absolute;
 }
 
+.form-box p{
+    text-align: center;
+    display: block;
+    margin: 40px 3px 0px 3px;
+    padding-bottom: 0px;
+    font-size: 35px;
+    color: rgb(220, 80, 46)
+} 
+
 #login{
-  left: 50px;
+    display: block;
+    left: 50px;
+    top: 30%;
 }
 
 #register{
-  left: 450px;
+    left: 450px;
+    display: block;
+    top:30%;
 }
